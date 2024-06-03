@@ -602,9 +602,9 @@ dependencies = [
 
 [[package]]
 name = "demand"
-version = "1.2.3"
+version = "1.2.4"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "d167ad7844a6bbd8b6a2abb593281e5ad6a555907cdf53dd78df93b43ef50d0b"
+checksum = "911255fd44dad0c6b5675764410acef128715644cbb68e5fad6a503ead70db0a"
 dependencies = [
  "console",
  "once_cell",
@@ -1636,7 +1636,7 @@ dependencies = [
 
 [[package]]
 name = "mise"
-version = "2024.6.0"
+version = "2024.6.1"
 dependencies = [
  "assert_cmd",
  "base64 0.22.1",
@@ -2177,9 +2177,9 @@ dependencies = [
 
 [[package]]
 name = "proc-macro2"
-version = "1.0.84"
+version = "1.0.85"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "ec96c6a92621310b51366f1e28d05ef11489516e93be030060e5fc12024a49d6"
+checksum = "22244ce15aa966053a896d1accb3a6e68469b97c7f33f284b99f0d576879fc23"
 dependencies = [
  "unicode-ident",
 ]
@@ -3875,9 +3875,9 @@ checksum = "ced3678a2879b30306d323f4542626697a464a97c0a07c9aebf7ebca65cd4dde"
 
 [[package]]
 name = "zip"
-version = "2.1.1"
+version = "2.1.2"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "1dd56a4d5921bc2f99947ac5b3abe5f510b1be7376fdc5e9fce4a23c6a93e87c"
+checksum = "098d5d7737fb0b70814faa73c17df84f047d38dd31d13bbf2ec3fb354b5abf45"
 dependencies = [
  "arbitrary",
  "crc32fast",
